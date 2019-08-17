@@ -36,9 +36,6 @@
 	<exclude-pattern type="relative">installation/template/index.php</exclude-pattern>
 	<exclude-pattern type="relative">installation/template/error.php</exclude-pattern>
 
-	<!-- Exclude tests completely for now -->
-	<exclude-pattern type="relative">tests/*</exclude-pattern>
-
 	<!-- Exclude the RoboFile.php -->
 	<exclude-pattern type="relative">RoboFile.php</exclude-pattern>
 
